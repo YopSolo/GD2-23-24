@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal-project/GD2-23-24/GD2_23_24/Content/FirstPerson/Input/IMC_Default.uasset",
+				"D:/unreal-project/GD2-23-24/GD2_23_24/Content/OverwatchCharacters/OverwatchBaseCharacter.uasset",
+				"D:/unreal-project/GD2-23-24/GD2_23_24/Content/OverwatchCharacters/Genji.uasset"
+			]
+		}
+	]
+}
